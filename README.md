@@ -3,7 +3,6 @@
 
 # Ссылка на проект: @skomforttest_bot
 # Скриншоты:
-
 ![Скриншот-1](https://github.com/Vladimir-Grishin/AI_Assist_test/blob/main/Скриншот-1.png?raw=true)
 ![Скриншот-1](https://github.com/Vladimir-Grishin/AI_Assist_test/blob/main/Скриншот-2.png?raw=true)
 
